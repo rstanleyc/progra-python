@@ -1,0 +1,4 @@
+Chicago:3
+Toronto:2
+Tokyo:1
+Madrid:1
